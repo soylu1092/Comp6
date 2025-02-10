@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzrOPKNx5og=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msi-nb\\Documents\\GitHub\\şikayet var\\şikayet var.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi-nb\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}

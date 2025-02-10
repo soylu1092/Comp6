@@ -1,0 +1,33 @@
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\appsettings.json
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\şikayet var.staticwebassets.runtime.json
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\şikayet var.exe
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\şikayet var.deps.json
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\şikayet var.runtimeconfig.json
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\şikayet var.dll
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\şikayet var.pdb
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.AssemblyInfoInputs.cache
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.AssemblyInfo.cs
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.RazorAssemblyInfo.cache
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.RazorAssemblyInfo.cs
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\staticwebassets\msbuild.şikayet var.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\staticwebassets\msbuild.build.şikayet var.props
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.şikayet var.props
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.şikayet var.props
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\scopedcss\bundle\şikayet var.styles.css
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\scopedcss\projectbundle\şikayet var.bundle.scp.css
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.dll
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\refint\şikayet var.dll
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.pdb
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.genruntimeconfig.cache
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\ref\şikayet var.dll
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\şikayet var.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Documents\GitHub\şikayet var\bin\Debug\net8.0\Dapper.dll
+C:\Users\msi-nb\Documents\GitHub\şikayet var\obj\Debug\net8.0\_ikayet .C0A16454.Up2Date
